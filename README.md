@@ -5,14 +5,15 @@
 Web component permettant d'afficher une jauge de remplissage.
 On lui passe en paramètres les infos suivantes :
 
-* size : la taille de l'élément (en pixels)
-* progress : le taux de remplissage (pourcentage)
-* text : le texte affiché au centre
-* color : la couleur de remplissage
-* track : la couleur de la piste
-* background : la couleur de fond du cercle central
+* **size** : la taille de l'élément (_en pixels_)
+* **progress** : le taux de remplissage (_pourcentage_)
+* **text** : le texte affiché au centre
+* **color** : la couleur de remplissage
+* **track** : la couleur de la piste
+* **background** : la couleur de fond du cercle central
 
-Pour les couleurs, on peut lui passer n'importe quelle valeur hexa / rgb / rgba (avec la nomemclature adéquate).
+Pour les couleurs, on peut lui passer n'importe quelle valeur hexa / rgb / rgba (_avec la nomemclature adéquate_).
+
 La taille de la police de l'élément centrale se calcule automatiquement en fonction du nombre de caractères dans le texte.
 
 ## Installation
