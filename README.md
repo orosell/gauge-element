@@ -27,3 +27,5 @@ On pourra ensuite appeler l'élément :
  &lt;gauge-element progress="65" size="100" background="#fff" track="#eee" color="#336699" text="12"&gt;&lt;/gauge-element&gt;
 </pre>
  à l'emplacement que l'on souhaite.
+
+src => https://codepen.io/ui-coder/pen/ZvEXBp
